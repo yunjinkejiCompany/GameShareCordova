@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.yunjin.gameshare": {
+    "source": {
+      "type": "local",
+      "path": "C:\\Users\\dkjua\\Desktop\\codeva\\helloCordova\\node_modules\\gameshare"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
